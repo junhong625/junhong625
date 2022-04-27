@@ -1,4 +1,8 @@
+<img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhong625&count_bg=%235EDBDF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Coder%20JH⚽️&fontSize=50)
+
 
 
 안녕하세요. 
