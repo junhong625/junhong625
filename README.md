@@ -26,7 +26,7 @@
 
 <br>
 
-## Skills.
+## Skills. ⚔️
 
 ### OS.
 <a href="https://www.microsoft.com/ko-kr/windows?r=1"><img src="https://img.shields.io/badge/Window-0078D7?style=flat-square&logo=microsoft&logoColor=white"/></a>
