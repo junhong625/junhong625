@@ -21,7 +21,8 @@
 
 ## Graduate. 🏫
 2015.03 ~ 2021.08  |  **서울 세종대학교(체육학과) 졸업**  
-2021.07 ~ 2022.01  |  **강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료** 
+2021.07 ~ 2022.01  |  **강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료**  
+2022.07 ~ 20??.??  |  **SSAFY(Samsung Software Academy For Youth) 교육 진행 중**
 
 
 <br>
@@ -36,10 +37,12 @@
 
 ### Language.
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FDDA0D?style=flat-square&logo=javascript&logoColor=white"/></a>
 <br>
 
 ### DB.
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-0096FF?style=flat-square&logo=sqlite&logoColor=white"/></a>
 <br>
 
 ### Collaboration Tool.
@@ -51,6 +54,4 @@
 ### DEV Tool.
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<a href="https://www.mysql.com/products/workbench/"><img src="https://img.shields.io/badge/Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/ec2/"><img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/></a>
-<a href="https://aws.amazon.com/ko/rds/"><img src="https://img.shields.io/badge/AWS RDS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-6495ED?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
