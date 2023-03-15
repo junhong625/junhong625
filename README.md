@@ -13,9 +13,9 @@
 <br>
 
 ## Contact. ☎️
-<a href="mailto:junhong625@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-<a href="mailto:junhong625@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/junhong625"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="mailto:junhong625@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white"/></a>
+<a href="mailto:junhong625@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/junhong625"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 
 <br>
 
@@ -30,28 +30,37 @@
 ## Skills. ⚔️
 
 ### OS.
-<a href="https://www.microsoft.com/ko-kr/windows?r=1"><img src="https://img.shields.io/badge/Window-0078D7?style=flat-square&logo=microsoft&logoColor=white"/></a>
-<a href="https://www.apple.com/kr/macos/monterey/"><img src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macos&logoColor=white"/></a>
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/></a>
+<a href="https://www.microsoft.com/ko-kr/windows?r=1"><img src="https://img.shields.io/badge/Window-0078D7?style=flat&logo=microsoft&logoColor=white"/></a>
+<a href="https://www.apple.com/kr/macos/monterey/"><img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=white"/></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/></a>
 <br>
 
 ### Language.
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
-<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FDDA0D?style=flat-square&logo=javascript&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
+<!-- <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FDDA0D?style=flat&logo=javascript&logoColor=white"/></a> -->
 <br>
 
+### BackEnd.
+<a href="https://docs.djangoproject.com/intro/"><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/></a>
+<a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
+
 ### DB.
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>
-<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-0096FF?style=flat-square&logo=sqlite&logoColor=white"/></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+<a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-0096FF?style=flat&logo=sqlite&logoColor=white"/></a>
 <br>
 
 ### Collaboration Tool.
-<a href="https://slack.com/intl/ko-kr/"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.google.com/intl/ko_KR/drive/"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat-square&logo=google drive&logoColor=white"/></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
+<a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.atlassian.com/ko/software/jira/"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira software&logoColor=white"/></a>
+<a href="https://www.google.com/intl/ko_KR/drive/"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=google drive&logoColor=white"/></a>
+<a href="https://notion.so"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
 <br>
 
 ### DEV Tool.
-<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>
-<a href="https://www.jetbrains.com/ko-kr/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-6495ED?style=flat-square&logo=visualstudiocode&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/ko-kr/idea/"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij idea&logoColor=white"/></a>
+<a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
+<a href="https://www.jetbrains.com/ko-kr/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-6495ED?style=flat&logo=visualstudiocode&logoColor=white"/></a>
