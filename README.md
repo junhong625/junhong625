@@ -38,7 +38,6 @@
 ### Language.
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/></a>
-<!-- <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-FDDA0D?style=flat&logo=javascript&logoColor=white"/></a> -->
 <br>
 
 ### BackEnd.
