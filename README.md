@@ -61,5 +61,6 @@
 ### DEV Tool.
 <a href="https://www.jetbrains.com/ko-kr/idea/"><img src="https://img.shields.io/badge/Intellij-000000?style=flat&logo=intellij idea&logoColor=white"/></a>
 <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat&logo=jupyter&logoColor=white"/></a>
+<a href="https://postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>
 <a href="https://www.jetbrains.com/ko-kr/pycharm/"><img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-6495ED?style=flat&logo=visualstudiocode&logoColor=white"/></a>
