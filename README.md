@@ -48,11 +48,16 @@
 ### DB.
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-0096FF?style=flat&logo=sqlite&logoColor=white"/></a>
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white"/></a>
+<br>
+
+### Infra.
+<a href="https://docker.com/"><img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+<a href="https://jenkins.io/"><img src="https://img.shields.io/badge/jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/></a>
 <br>
 
 ### Collaboration Tool.
 <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
 <a href="https://www.atlassian.com/ko/software/jira/"><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira software&logoColor=white"/></a>
 <a href="https://www.google.com/intl/ko_KR/drive/"><img src="https://img.shields.io/badge/Google Drive-4285F4?style=flat&logo=google drive&logoColor=white"/></a>
 <a href="https://notion.so"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/></a>
