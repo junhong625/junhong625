@@ -22,7 +22,7 @@
 ## Graduate. 🏫
 2015.03 ~ 2021.08  |  **서울 세종대학교(체육학과) 졸업**  
 2021.07 ~ 2022.01  |  **강남 비트교육센터(빅데이터 분석을 활용한 예측&인공지능(AI) 모델링) 수료**  
-2022.07 ~ 20??.??  |  **SSAFY(Samsung Software Academy For Youth) 교육 진행 중**
+2022.07 ~ 2023.06  |  **SSAFY(Samsung Software Academy For Youth) 수료**
 
 
 <br>
